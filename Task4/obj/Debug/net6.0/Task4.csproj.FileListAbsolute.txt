@@ -1,0 +1,15 @@
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/Task4
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/Task4.deps.json
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/Task4.dll
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/ref/Task4.dll
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/bin/Debug/net6.0/Task4.pdb
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.dll
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/ref/Task4.dll
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.pdb
+/home/vitozb/Видео/GB/C#/DZ_8/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
